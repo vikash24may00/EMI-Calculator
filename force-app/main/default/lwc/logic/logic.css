@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calculator {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.chart {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emiChart {
+    max-width: 300px;
+    max-height: 300px;
+}
